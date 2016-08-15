@@ -1,0 +1,23 @@
+//
+//  BS_PrefixHeader.pch
+//  BusinessSchool
+//
+//  Created by heixiu on 16/8/15.
+//  Copyright © 2016年 JingGe. All rights reserved.
+//
+
+#ifndef BS_PrefixHeader_pch
+#define BS_PrefixHeader_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#import "KeyboardManager.h"
+#import "Masonry.h"
+#import "MJRefresh.h"
+#import "BSNetworkManager.h"
+#import "MBProgressHUD.h"
+#import "UIImageView+WebCache.h"
+
+
+#endif /* BS_PrefixHeader_pch */
